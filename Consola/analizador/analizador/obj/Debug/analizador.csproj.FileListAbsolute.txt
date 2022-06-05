@@ -1,0 +1,10 @@
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\bin\Debug\analizador.exe.config
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\bin\Debug\analizador.exe
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\bin\Debug\analizador.pdb
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.csproj.AssemblyReference.cache
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.Form1.resources
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.Properties.Resources.resources
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.csproj.GenerateResource.cache
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.csproj.CoreCompileInputs.cache
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.exe
+C:\Users\Ash Quezada\Desktop\asp\Consola\analizador\analizador\obj\Debug\analizador.pdb
